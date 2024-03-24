@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/END-2-END-ML-PROJECT-WITH-MLFLOW/mlruns/0/8c14e5c022c94c628d81f9cda0f858c7/artifacts
+end_time: 1711291581556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c14e5c022c94c628d81f9cda0f858c7
+run_name: funny-fawn-718
+run_uuid: 8c14e5c022c94c628d81f9cda0f858c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711291564593
+status: 3
+tags: []
+user_id: Dell

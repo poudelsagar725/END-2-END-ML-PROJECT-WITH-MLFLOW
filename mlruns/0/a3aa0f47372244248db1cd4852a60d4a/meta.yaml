@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/END-2-END-ML-PROJECT-WITH-MLFLOW/mlruns/0/a3aa0f47372244248db1cd4852a60d4a/artifacts
+end_time: 1711291990397
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3aa0f47372244248db1cd4852a60d4a
+run_name: peaceful-finch-476
+run_uuid: a3aa0f47372244248db1cd4852a60d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711291971919
+status: 3
+tags: []
+user_id: Dell
