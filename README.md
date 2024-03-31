@@ -26,11 +26,11 @@ https://github.com/poudelsagar725/END-2-END-ML-PROJECT-WITH-MLFLOW
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n mlproj python=3.8 -y
+conda create -n mlproject python=3.8 -y
 ```
 
 ```bash
-conda activate mlproj
+conda activate mlproject
 ```
 
 
