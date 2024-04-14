@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/END-2-END-ML-PROJECT-WITH-MLFLOW/mlruns/0/5f36bfc649914a77b28a2727f1c7f7ba/artifacts
+end_time: 1713091477008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f36bfc649914a77b28a2727f1c7f7ba
+run_name: caring-shrimp-317
+run_uuid: 5f36bfc649914a77b28a2727f1c7f7ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713091468419
+status: 3
+tags: []
+user_id: Dell
